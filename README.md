@@ -65,6 +65,6 @@ My PDF file is open. I have completed the lab.
 
 THIS SAME PROCESS APPLIES TO SOLVING THE TASK 2 (My-Locked-PDF2.pdf) AND TASK 3 (My-Locked-PDF3.pdf).
 
-You will get the cracked password for the any locked files after following the same patterns used to solve Task 1 (My-Locked-PDF1.pdf)
+You will get the cracked password for any locked files after following the same patterns used to solve Task 1 (My-Locked-PDF1.pdf)
 
 Networkwalks B083-WK3-PM2-Password Cracking with Networkwalks Tools Completed
