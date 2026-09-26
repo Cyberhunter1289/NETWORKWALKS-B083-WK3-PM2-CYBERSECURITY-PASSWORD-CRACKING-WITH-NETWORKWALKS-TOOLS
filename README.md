@@ -9,7 +9,7 @@ Crack the password of the attached PDF file (My Locked PDF1.pdf) using the Netwo
 
 STEP 1
 
-Download the encrypted PDF file (My Locked PDF1.pdf) to my laptop from the lab page
+Download the encrypted PDF file (My Locked PDF1.pdf) on my laptop from the lab page
 https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS/blob/main/Screenshot%202026-09-26%20114949.png?raw=true)
@@ -45,7 +45,7 @@ STEP 6
 
 I Started the attack after pasting my hash value into the Password Cracker. The tool will try different passwords until it finds a match.
 
-Waited for the tool to finish. Then the cracked password will be shown on my screen.
+Waited for the tool to finish. Then the cracked password shows on my screen.
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS/blob/main/Screenshot%202026-09-26%20111244.png?raw=true)
 
@@ -63,4 +63,8 @@ My PDF file is open. I have completed the lab.
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS/blob/main/Screenshot%202026-09-26%20111336.png?raw=true)
 
-Networkwalks B083-WK3-PM2 Task 1 Completed
+THIS SAME PROCESS APPLIES TO SOLVING THE TASK 2 (My-Locked-PDF2.pdf) AND TASK 3 (My-Locked-PDF3.pdf).
+
+You will get the cracked password for the any locked files after following the same patterns used to solve Task 1 (My-Locked-PDF1.pdf)
+
+Networkwalks B083-WK3-PM2-Password Cracking with Networkwalks Tools Completed
