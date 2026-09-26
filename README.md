@@ -51,9 +51,7 @@ Waited for the tool to finish. Then the cracked password shows on my screen.
 
 STEP 8
 
-I Opened the locked PDF file and entered the cracked password
-
-I Used the password1 (which I have just cracked)
+I Opened the locked PDF file and entered the cracked password and used the password1 (which I have just cracked)
 
 ![Image Alt](https://github.com/Cyberhunter1289/NETWORKWALKS-B083-WK3-PM2-CYBERSECURITY-PASSWORD-CRACKING-WITH-NETWORKWALKS-TOOLS/blob/main/Screenshot%202026-09-26%20111313.png?raw=true)
 
